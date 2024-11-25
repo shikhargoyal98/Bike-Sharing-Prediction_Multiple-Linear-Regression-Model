@@ -28,7 +28,7 @@ The dataset includes three columns related to bike usage: 'casual' (the number o
   
 - mnth : month ( 1 to 12)
   
-- holiday : weather day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
+- holiday : weather day is a holiday or not
   
 - weekday : day of the week
   
