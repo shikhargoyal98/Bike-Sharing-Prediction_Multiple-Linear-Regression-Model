@@ -16,9 +16,9 @@ The dataset contains categorical variables such as 'weathersit' and 'season', wh
 
 The dataset includes three columns related to bike usage: 'casual' (the number of casual users), 'registered' (the number of registered users), and 'cnt' (the total number of rentals, including both casual and registered users). The target variable for the model is 'cnt', as it represents the overall bike demand. The goal is to build a predictive model using these variables to understand demand patterns and inform BoomBikes' strategy.
 
-=========================================
-Dataset characteristics
-=========================================	
+
+**Dataset characteristics:**
+	
 	
 - dteday : date
   
